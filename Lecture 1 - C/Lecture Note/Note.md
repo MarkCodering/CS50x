@@ -9,19 +9,14 @@ C, a traditional and fully-text base but powerful computer programming language.
 ## Introduction to Program Structure
 The program structure of a typical C program is shown below:
 
-///////////////////////////////////
-Include the libraries:
+//Include the libraries:
 #include<stdio.h>
 #include<stdlib.h> //Include the standard library in C programming.
-///////////////////////////////////
 
-///////////////////////////////////
 Global Variables Section:
 int global_variable; --> A global variable declared in "int" data type
-///////////////////////////////////
 
-///////////////////////////////////
-Entry Point of the Program, main function
+//Entry Point of the Program, main function
 void main(void)
 {
     //Local Variable Declaration in main() function zone
