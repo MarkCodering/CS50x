@@ -5,11 +5,15 @@ Introduction to Intellectual Enterprise of Computer Science and the art of progr
 ## Course Structure of CS50x
 The overall purpose of CS50x is to help student establishing a strong technical knowledge and solid thinking capability in the world of computer science. The course including the essential but demanding topics in computer science and information engineering (CSIE). Throughout this course, I will be able to write program in C and Python, but more importantly, think, computationaly.
 
-- Lecture 1: C Programming Langauge
-- Lecture 2: Array
+- Lecture 1: C
+- Lecture 2: Arrays
 - Lecture 3: Algorithms
 - Lecture 4: Memory
 - Lecture 5: Data Structure
 - Lecture 6: Python
 - Lecture 7: SQL
-- Lecture 8: Information
+- Lecture 8: HTML, CSS, JavaScript
+- Lecture 9: Flask
+- Lecture 10: Ethics
+- Security
+- Artifical Intelligence

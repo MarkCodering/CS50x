@@ -14,15 +14,15 @@ The program structure of a typical C program is shown below:
 #include<stdio.h> //Include the standard Input/Output Library.
 #include<stdlib.h> //Include the standard library in C programming.
 
-Global Variables Section:
-int global_variable; --> A global variable declared in "int" data type
+//Global Variables Section:
+int global_variable; // A global variable declared in "int" data type
 
 //Entry Point of the Program, main function
 void main(void)
 {
     //Local Variable Declaration in main() function zone
     int local_variable;
-
+    
     //Actions (Algorithm)
     printf("Hello World, this is CS50x\n");
 
